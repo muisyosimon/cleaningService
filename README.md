@@ -7,3 +7,5 @@ User-friendly booking interface for customers.
 Utilizes local storage to manage booking data (no database required).
 Email integration for confirmation and communication.
 Targeted for urban centers in Kenya, addressing local needs.
+
+### Signed: Muisyo Simon
